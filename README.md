@@ -1,4 +1,4 @@
-## [AnyDLBot #V2](https://telegram.dog/midukkandl_bot)
+## [AnyDLBot #V2](https://telegram.dog/teleuploadgdrivebot)
 ---
 
 An Open Source ALL-In-One Telegram RoBot, that can do lot of things.
@@ -12,11 +12,11 @@ An Open Source ALL-In-One Telegram RoBot, that can do lot of things.
 
 #### The Easiest Way
 
-**upgrade** your subscription for [@AnyDLBot](https://telegram.dog/AnyDLBot) without having to run anything on your own
+**upgrade** your subscription for [@AnyDLBot](https://telegram.dog/teleuploadgdrivebot) without having to run anything on your own
 
 #### The Easy Way
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ALENTL/AnyDLBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/lordaung/teleuploadtwo)
 
 #### The Hard Way
 
@@ -29,7 +29,7 @@ cp sample_config.py config.py
 python bot.py
 ```
 
-- For FeedBack and Suggestions, please feel free to say in [@ALENTL](https://telegram.dog/ALEN_TL)
+
 
 #### LICENSE
 - GPLv3
